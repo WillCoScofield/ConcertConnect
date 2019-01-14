@@ -4,10 +4,12 @@ Concert Connection is an artist search application with results linking to avail
 # Getting Started
 Follow the link to our deployed site:
 https://willcoscofield.github.io/ConcertConnect/
-
 and find your next concert experience.
 
 
 
 # Authors
-Connor Scofield - Project Lead / Backend logic / API data Management Kristen Spekhals - Content Developer and Designer Victor Hernandez - Lead UI Designer Justin Golshir - Product Design / Research
+Connor Scofield - Project Lead / Backend logic / API data Management 
+Kristen Spekhals - Content Developer and Designer 
+Victor Hernandez - Lead UI Designer 
+Justin Golshir - Product Design / Research
