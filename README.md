@@ -2,6 +2,11 @@
 Concert Connection is an artist search application with results linking to available tickets, dates, and venue information. It utilizes the Materialize CSS framework, the Google Maps API and the Bands In Town API. The Bands In Town request retrieves data on the artist searched, and then utilizing the lat/long of the concert venue data I used Google Maps' API to create an interactive map for display.
 
 # Getting Started
+Follow the link to our deployed site:
+https://willcoscofield.github.io/ConcertConnect/
+
+and find your next concert experience.
+
 
 
 # Authors
